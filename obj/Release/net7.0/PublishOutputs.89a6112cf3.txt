@@ -1,0 +1,12 @@
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\DogApi.exe
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\appsettings.Development.json
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\appsettings.json
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\DogApi.dll
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\DogApi.deps.json
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\DogApi.runtimeconfig.json
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\DogApi.pdb
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gea.jornulf\source\repos\DogApi\DogApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
