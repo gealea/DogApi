@@ -160,6 +160,10 @@ docker build -t dogapi . (builds image)
 docker run -d -p 8080:80 --name dogapicontainer dogapi (intiliaze image/run conatiner)
 ```
 The contaioner then listens on tcp port 8080
+You can view the API specification in Swagger UI
+```bash
+./swagger/index.html
+```
 
 A ready image can also be pulled from gealea/dogapi (docker hub)
 ```bash
