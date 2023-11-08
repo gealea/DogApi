@@ -1,15 +1,6 @@
 # Dog API 🐶🦴💾
 
-
-Your task is to implement the Create and Read parts of a CRUD API, i.e. a CR API (pronounced KERRRR 🙃).
-
-
-## Guidelines
-
-
-You are not expected to use a real database for your solution, but you should structure your code so that adding a database would have minimal impact on your code.
-Try to structure your code as if it where a part of a professional codebase. Your solution will be reviewed and a potential follow-up meeting might be scheduled to discuss the solution.
-
+Create and Read parts of a CRUD API, i.e. a CR API (pronounced KERRRR 🙃).
 
 
 
