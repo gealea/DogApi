@@ -111,30 +111,6 @@ The expected status codes are
 | 404 | `NOT FOUND` |
 
 
-## Test
-Since we are mostly interested in how you solve a problem rather than checking if you have covered all edge-cases. We have provided a testfile for you to run and validate your solutions against.
-
-
-To install all the dependencies for the test, execute the following command:
-
-
-```bash
-pip3 install -r requirements.txt
-```
-
-
-This can be executed from the root of this repository via:
-```bash
-python3 test.py <URL_TO_YOUR_API>
-```
-
-
-## Submitting
-
-When you are finished with the implementation, please share the code with us so that we can review it.
-Please add some information on how to start your server and any dependencies in the section below. Bonus points if you package your application with Docker, but it's not required for this task.
-
-
 ## How to run
 
 The applicatation is built and runs with Docker (configured for Windows OS/Architecture).
